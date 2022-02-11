@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juandc1
+- 👋 Hi, I’m Juan
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me 
